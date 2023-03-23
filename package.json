@@ -1,0 +1,21 @@
+{
+  "name": "philippine-addresses",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"><img src=\"https://pngimage.net/wp-content/uploads/2018/06/philippine-flag-icon-png-5.png\" width=\"200\"></p>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacdarcilla/philippine-addresses.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaacdarcilla/philippine-addresses/issues"
+  },
+  "homepage": "https://github.com/isaacdarcilla/philippine-addresses#readme"
+}
