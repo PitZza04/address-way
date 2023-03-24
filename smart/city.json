@@ -1,0 +1,43 @@
+{
+  "StatusCode": "Success",
+  "httpStatus": 200,
+  "response": {
+    "status": true,
+    "data": {
+      "cities": [
+        { "id": "886", "name": "BACOLOD CITY (CAPITAL)" },
+        { "id": "961", "name": "BAGO CITY" },
+        { "id": "1461", "name": "BINALBAGAN" },
+        { "id": "1876", "name": "CADIZ CITY" },
+        { "id": "1971", "name": "CALATRAVA" },
+        { "id": "2086", "name": "CANDONI" },
+        { "id": "2276", "name": "CAUAYAN" },
+        { "id": "2866", "name": "ENRIQUE B. MAGALONA (SARAVIA)" },
+        { "id": "2876", "name": "ESCALANTE CITY" },
+        { "id": "3226", "name": "HIMAMAYLAN CITY" },
+        { "id": "3251", "name": "HINIGARAN" },
+        { "id": "3256", "name": "HINOBA-AN (ASIA)" },
+        { "id": "3311", "name": "ILOG" },
+        { "id": "3391", "name": "ISABELA" },
+        { "id": "3556", "name": "KABANKALAN CITY" },
+        { "id": "3741", "name": "LA CARLOTA CITY" },
+        { "id": "3746", "name": "LA CASTELLANA" },
+        { "id": "4746", "name": "MANAPLA" },
+        { "id": "5136", "name": "MOISES PADILLA (MAGALLON)" },
+        { "id": "5211", "name": "MURCIA" },
+        { "id": "6051", "name": "PONTEVEDRA" },
+        { "id": "6161", "name": "PULUPANDAN" },
+        { "id": "6406", "name": "SAGAY CITY" },
+        { "id": "6466", "name": "SALVADOR BENEDICTO" },
+        { "id": "6546", "name": "SAN CARLOS CITY" },
+        { "id": "6576", "name": "SAN ENRIQUE" },
+        { "id": "7536", "name": "SILAY CITY" },
+        { "id": "7576", "name": "SIPALAY CITY" },
+        { "id": "7941", "name": "TALISAY CITY" },
+        { "id": "8196", "name": "TOBOSO" },
+        { "id": "8441", "name": "VALLADOLID" },
+        { "id": "8476", "name": "VICTORIAS CITY" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "StatusCode": "Success",
+  "httpStatus": 200,
+  "response": {
+    "status": true,
+    "data": {
+      "zipCodes": [
+        {
+          "tid": 11226,
+          "name": "ALANGILAN",
+          "zipcodes": [{ "tid": "363141", "name": "6100" }]
+        },
+        {
+          "tid": 11941,
+          "name": "ALIJIS",
+          "zipcodes": [{ "tid": "363856", "name": "6100" }]
+        },
+        {
+          "tid": 25011,
+          "name": "BANAGO",
+          "zipcodes": [{ "tid": "376926", "name": "6100" }]
+        },
+        {
+          "tid": 27826,
+          "name": "BARANGAY 1 (POB.)",
+          "zipcodes": [{ "tid": "379741", "name": "6100" }]
+        },
+        {
+          "tid": 30391,
+          "name": "BARANGAY 2 (POB.)",
+          "zipcodes": [{ "tid": "382306", "name": "6100" }]
+        },
+        {
+          "tid": 31696,
+          "name": "BARANGAY 3 (POB.)",
+          "zipcodes": [{ "tid": "383611", "name": "6100" }]
+        },
+        {
+          "tid": 32926,
+          "name": "BARANGAY 4 (POB.)",
+          "zipcodes": [{ "tid": "384841", "name": "6100" }]
+        },
+        {
+          "tid": 34046,
+          "name": "BARANGAY 5 (POB.)",
+          "zipcodes": [{ "tid": "385961", "name": "6100" }]
+        },
+        {
+          "tid": 35101,
+          "name": "BARANGAY 6 (POB.)",
+          "zipcodes": [{ "tid": "387016", "name": "6100" }]
+        },
+        {
+          "tid": 36091,
+          "name": "BARANGAY 7 (POB.)",
+          "zipcodes": [{ "tid": "388006", "name": "6100" }]
+        },
+        {
+          "tid": 36986,
+          "name": "BARANGAY 8 (POB.)",
+          "zipcodes": [{ "tid": "388901", "name": "6100" }]
+        },
+        {
+          "tid": 37831,
+          "name": "BARANGAY 9 (POB.)",
+          "zipcodes": [{ "tid": "389746", "name": "6100" }]
+        },
+        {
+          "tid": 28031,
+          "name": "BARANGAY 10 (POB.)",
+          "zipcodes": [{ "tid": "379946", "name": "6100" }]
+        },
+        {
+          "tid": 28361,
+          "name": "BARANGAY 11 (POB.)",
+          "zipcodes": [{ "tid": "380276", "name": "6100" }]
+        },
+        {
+          "tid": 28561,
+          "name": "BARANGAY 12 (POB.)",
+          "zipcodes": [{ "tid": "380476", "name": "6100" }]
+        },
+        {
+          "tid": 28831,
+          "name": "BARANGAY 13 (POB.)",
+          "zipcodes": [{ "tid": "380746", "name": "6100" }]
+        },
+        {
+          "tid": 29051,
+          "name": "BARANGAY 14 (POB.)",
+          "zipcodes": [{ "tid": "380966", "name": "6100" }]
+        },
+        {
+          "tid": 29271,
+          "name": "BARANGAY 15 (POB.)",
+          "zipcodes": [{ "tid": "381186", "name": "6100" }]
+        },
+        {
+          "tid": 29476,
+          "name": "BARANGAY 16 (POB.)",
+          "zipcodes": [{ "tid": "381391", "name": "6100" }]
+        },
+        {
+          "tid": 29686,
+          "name": "BARANGAY 17 (POB.)",
+          "zipcodes": [{ "tid": "381601", "name": "6100" }]
+        },
+        {
+          "tid": 29886,
+          "name": "BARANGAY 18 (POB.)",
+          "zipcodes": [{ "tid": "381801", "name": "6100" }]
+        },
+        {
+          "tid": 30096,
+          "name": "BARANGAY 19 (POB.)",
+          "zipcodes": [{ "tid": "382011", "name": "6100" }]
+        },
+        {
+          "tid": 30546,
+          "name": "BARANGAY 20 (POB.)",
+          "zipcodes": [{ "tid": "382461", "name": "6100" }]
+        },
+        {
+          "tid": 30661,
+          "name": "BARANGAY 21 (POB.)",
+          "zipcodes": [{ "tid": "382576", "name": "6100" }]
+        },
+        {
+          "tid": 30771,
+          "name": "BARANGAY 22 (POB.)",
+          "zipcodes": [{ "tid": "382686", "name": "6100" }]
+        },
+        {
+          "tid": 30891,
+          "name": "BARANGAY 23 (POB.)",
+          "zipcodes": [{ "tid": "382806", "name": "6100" }]
+        },
+        {
+          "tid": 30986,
+          "name": "BARANGAY 24 (POB.)",
+          "zipcodes": [{ "tid": "382901", "name": "6100" }]
+        },
+        {
+          "tid": 31101,
+          "name": "BARANGAY 25 (POB.)",
+          "zipcodes": [{ "tid": "383016", "name": "6100" }]
+        },
+        {
+          "tid": 31191,
+          "name": "BARANGAY 26 (POB.)",
+          "zipcodes": [{ "tid": "383106", "name": "6100" }]
+        },
+        {
+          "tid": 31281,
+          "name": "BARANGAY 27 (POB.)",
+          "zipcodes": [{ "tid": "383196", "name": "6100" }]
+        },
+        {
+          "tid": 31361,
+          "name": "BARANGAY 28 (POB.)",
+          "zipcodes": [{ "tid": "383276", "name": "6100" }]
+        },
+        {
+          "tid": 31456,
+          "name": "BARANGAY 29 (POB.)",
+          "zipcodes": [{ "tid": "383371", "name": "6100" }]
+        },
+        {
+          "tid": 31856,
+          "name": "BARANGAY 30 (POB.)",
+          "zipcodes": [{ "tid": "383771", "name": "6100" }]
+        },
+        {
+          "tid": 31946,
+          "name": "BARANGAY 31 (POB.)",
+          "zipcodes": [{ "tid": "383861", "name": "6100" }]
+        },
+        {
+          "tid": 32031,
+          "name": "BARANGAY 32 (POB.)",
+          "zipcodes": [{ "tid": "383946", "name": "6100" }]
+        },
+        {
+          "tid": 32126,
+          "name": "BARANGAY 33 (POB.)",
+          "zipcodes": [{ "tid": "384041", "name": "6100" }]
+        },
+        {
+          "tid": 32216,
+          "name": "BARANGAY 34 (POB.)",
+          "zipcodes": [{ "tid": "384131", "name": "6100" }]
+        },
+        {
+          "tid": 32306,
+          "name": "BARANGAY 35 (POB.)",
+          "zipcodes": [{ "tid": "384221", "name": "6100" }]
+        },
+        {
+          "tid": 32396,
+          "name": "BARANGAY 36 (POB.)",
+          "zipcodes": [{ "tid": "384311", "name": "6100" }]
+        },
+        {
+          "tid": 32501,
+          "name": "BARANGAY 37 (POB.)",
+          "zipcodes": [{ "tid": "384416", "name": "6100" }]
+        },
+        {
+          "tid": 32596,
+          "name": "BARANGAY 38 (POB.)",
+          "zipcodes": [{ "tid": "384511", "name": "6100" }]
+        },
+        {
+          "tid": 32696,
+          "name": "BARANGAY 39 (POB.)",
+          "zipcodes": [{ "tid": "384611", "name": "6100" }]
+        },
+        {
+          "tid": 33081,
+          "name": "BARANGAY 40 (POB.)",
+          "zipcodes": [{ "tid": "384996", "name": "6100" }]
+        },
+        {
+          "tid": 33161,
+          "name": "BARANGAY 41 (POB.)",
+          "zipcodes": [{ "tid": "385076", "name": "6100" }]
+        },
+        {
+          "tid": 41476,
+          "name": "BATA",
+          "zipcodes": [{ "tid": "393391", "name": "6100" }]
+        },
+        {
+          "tid": 58136,
+          "name": "CABUG",
+          "zipcodes": [{ "tid": "410051", "name": "6100" }]
+        },
+        {
+          "tid": 86236,
+          "name": "ESTEFANIA",
+          "zipcodes": [{ "tid": "438151", "name": "6100" }]
+        },
+        {
+          "tid": 86741,
+          "name": "FELISA",
+          "zipcodes": [{ "tid": "438656", "name": "6100" }]
+        },
+        {
+          "tid": 89991,
+          "name": "GRANADA",
+          "zipcodes": [{ "tid": "441906", "name": "6100" }]
+        },
+        {
+          "tid": 92646,
+          "name": "HANDUMANAN",
+          "zipcodes": [{ "tid": "444561", "name": "6100" }]
+        },
+        {
+          "tid": 126976,
+          "name": "MANDALAGAN",
+          "zipcodes": [{ "tid": "478891", "name": "6100" }]
+        },
+        {
+          "tid": 128456,
+          "name": "MANSILINGAN",
+          "zipcodes": [{ "tid": "480371", "name": "6100" }]
+        },
+        {
+          "tid": 135716,
+          "name": "MONTEVISTA",
+          "zipcodes": [{ "tid": "487631", "name": "6100" }]
+        },
+        {
+          "tid": 145226,
+          "name": "PAHANOCOY",
+          "zipcodes": [{ "tid": "497141", "name": "6100" }]
+        },
+        {
+          "tid": 163991,
+          "name": "PUNTA TAYTAY",
+          "zipcodes": [{ "tid": "515906", "name": "6100" }]
+        },
+        {
+          "tid": 195851,
+          "name": "SINGCANG-AIRPORT",
+          "zipcodes": [{ "tid": "547766", "name": "6100" }]
+        },
+        {
+          "tid": 198516,
+          "name": "SUM-AG",
+          "zipcodes": [{ "tid": "550431", "name": "6100" }]
+        },
+        {
+          "tid": 200456,
+          "name": "TACULING",
+          "zipcodes": [{ "tid": "552371", "name": "6100" }]
+        },
+        {
+          "tid": 205041,
+          "name": "TANGUB",
+          "zipcodes": [{ "tid": "556956", "name": "6100" }]
+        },
+        {
+          "tid": 216126,
+          "name": "VILLAMONTE",
+          "zipcodes": [{ "tid": "568041", "name": "6100" }]
+        },
+        {
+          "tid": 216476,
+          "name": "VISTA ALEGRE",
+          "zipcodes": [{ "tid": "568391", "name": "6100" }]
+        }
+      ]
+    }
+  }
+}

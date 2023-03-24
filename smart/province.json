@@ -1,0 +1,326 @@
+[
+  {
+    "id": "1",
+    "name": "ABRA"
+  },
+  {
+    "id": "6",
+    "name": "AGUSAN DEL NORTE"
+  },
+  {
+    "id": "11",
+    "name": "AGUSAN DEL SUR"
+  },
+  {
+    "id": "16",
+    "name": "AKLAN"
+  },
+  {
+    "id": "21",
+    "name": "ALBAY"
+  },
+  {
+    "id": "26",
+    "name": "ANTIQUE"
+  },
+  {
+    "id": "31",
+    "name": "APAYAO"
+  },
+  {
+    "id": "36",
+    "name": "AURORA"
+  },
+  {
+    "id": "41",
+    "name": "BASILAN"
+  },
+  {
+    "id": "46",
+    "name": "BATAAN"
+  },
+  {
+    "id": "51",
+    "name": "BATANES"
+  },
+  {
+    "id": "56",
+    "name": "BATANGAS"
+  },
+  {
+    "id": "61",
+    "name": "BENGUET"
+  },
+  {
+    "id": "66",
+    "name": "BILIRAN"
+  },
+  {
+    "id": "71",
+    "name": "BOHOL"
+  },
+  {
+    "id": "76",
+    "name": "BUKIDNON"
+  },
+  {
+    "id": "81",
+    "name": "BULACAN"
+  },
+  {
+    "id": "86",
+    "name": "CAGAYAN"
+  },
+  {
+    "id": "91",
+    "name": "CAMARINES NORTE"
+  },
+  {
+    "id": "96",
+    "name": "CAMARINES SUR"
+  },
+  {
+    "id": "101",
+    "name": "CAMIGUIN"
+  },
+  {
+    "id": "106",
+    "name": "CAPIZ"
+  },
+  {
+    "id": "111",
+    "name": "CATANDUANES"
+  },
+  {
+    "id": "116",
+    "name": "CAVITE"
+  },
+  {
+    "id": "121",
+    "name": "CEBU"
+  },
+  {
+    "id": "126",
+    "name": "COMPOSTELA VALLEY"
+  },
+  {
+    "id": "131",
+    "name": "DAVAO DEL NORTE"
+  },
+  {
+    "id": "136",
+    "name": "DAVAO DEL SUR"
+  },
+  {
+    "id": "141",
+    "name": "DAVAO ORIENTAL"
+  },
+  {
+    "id": "146",
+    "name": "DINAGAT ISLANDS"
+  },
+  {
+    "id": "151",
+    "name": "EASTERN SAMAR"
+  },
+  {
+    "id": "156",
+    "name": "GUIMARAS"
+  },
+  {
+    "id": "161",
+    "name": "IFUGAO"
+  },
+  {
+    "id": "166",
+    "name": "ILOCOS NORTE"
+  },
+  {
+    "id": "171",
+    "name": "ILOCOS SUR"
+  },
+  {
+    "id": "176",
+    "name": "ILOILO"
+  },
+  {
+    "id": "181",
+    "name": "ISABELA"
+  },
+  {
+    "id": "186",
+    "name": "KALINGA"
+  },
+  {
+    "id": "191",
+    "name": "LA UNION"
+  },
+  {
+    "id": "196",
+    "name": "LAGUNA"
+  },
+  {
+    "id": "201",
+    "name": "LANAO DEL NORTE"
+  },
+  {
+    "id": "206",
+    "name": "LANAO DEL SUR"
+  },
+  {
+    "id": "211",
+    "name": "LEYTE"
+  },
+  {
+    "id": "216",
+    "name": "MAGUINDANAO"
+  },
+  {
+    "id": "221",
+    "name": "MARINDUQUE"
+  },
+  {
+    "id": "226",
+    "name": "MASBATE"
+  },
+  {
+    "id": "231",
+    "name": "METRO MANILA"
+  },
+  {
+    "id": "236",
+    "name": "MISAMIS OCCIDENTAL"
+  },
+  {
+    "id": "241",
+    "name": "MISAMIS ORIENTAL"
+  },
+  {
+    "id": "246",
+    "name": "MOUNTAIN PROVINCE"
+  },
+  {
+    "id": "251",
+    "name": "NEGROS OCCIDENTAL"
+  },
+  {
+    "id": "256",
+    "name": "NEGROS ORIENTAL"
+  },
+  {
+    "id": "261",
+    "name": "NORTH COTABATO"
+  },
+  {
+    "id": "266",
+    "name": "NORTHERN SAMAR"
+  },
+  {
+    "id": "271",
+    "name": "NUEVA ECIJA"
+  },
+  {
+    "id": "276",
+    "name": "NUEVA VIZCAYA"
+  },
+  {
+    "id": "281",
+    "name": "OCCIDENTAL MINDORO"
+  },
+  {
+    "id": "286",
+    "name": "ORIENTAL MINDORO"
+  },
+  {
+    "id": "291",
+    "name": "PALAWAN"
+  },
+  {
+    "id": "296",
+    "name": "PAMPANGA"
+  },
+  {
+    "id": "301",
+    "name": "PANGASINAN"
+  },
+  {
+    "id": "306",
+    "name": "QUEZON"
+  },
+  {
+    "id": "311",
+    "name": "QUIRINO"
+  },
+  {
+    "id": "316",
+    "name": "RIZAL"
+  },
+  {
+    "id": "321",
+    "name": "ROMBLON"
+  },
+  {
+    "id": "326",
+    "name": "SARANGANI"
+  },
+  {
+    "id": "331",
+    "name": "SIQUIJOR"
+  },
+  {
+    "id": "336",
+    "name": "SORSOGON"
+  },
+  {
+    "id": "341",
+    "name": "SOUTH COTABATO"
+  },
+  {
+    "id": "346",
+    "name": "SOUTHERN LEYTE"
+  },
+  {
+    "id": "351",
+    "name": "SULTAN KUDARAT"
+  },
+  {
+    "id": "356",
+    "name": "SULU"
+  },
+  {
+    "id": "361",
+    "name": "SURIGAO DEL NORTE"
+  },
+  {
+    "id": "366",
+    "name": "SURIGAO DEL SUR"
+  },
+  {
+    "id": "371",
+    "name": "TARLAC"
+  },
+  {
+    "id": "376",
+    "name": "TAWI-TAWI"
+  },
+  {
+    "id": "381",
+    "name": "WESTERN SAMAR"
+  },
+  {
+    "id": "386",
+    "name": "ZAMBALES"
+  },
+  {
+    "id": "391",
+    "name": "ZAMBOANGA DEL NORTE"
+  },
+  {
+    "id": "396",
+    "name": "ZAMBOANGA DEL SUR"
+  },
+  {
+    "id": "401",
+    "name": "ZAMBOANGA SIBUGAY"
+  }
+]

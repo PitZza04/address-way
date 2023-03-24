@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/isaacdarcilla/philippine-addresses/issues"
   },
-  "homepage": "https://github.com/isaacdarcilla/philippine-addresses#readme"
+  "homepage": "https://github.com/isaacdarcilla/philippine-addresses#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
 }
